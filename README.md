@@ -23,12 +23,12 @@ Principais tecnologias utilizadas:
 
 Atualmente, o sistema conta com as seguintes funcionalidades:
 
-### 👤 Controle de Usuários
+###  Controle de Usuários
 
 * Cadastro e autenticação de usuários
 * Armazenamento de dados como nome, e-mail e senha
 
-### 💅 Agendamentos e Serviços
+###  Agendamentos e Serviços
 
 * Registro de atendimentos com:
 
