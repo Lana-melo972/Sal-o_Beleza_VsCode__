@@ -91,7 +91,19 @@ node app.js
 5. Acesse no navegador:
 
 ```
+
 http://localhost:8080/user/index
 ```
 
 > O Sequelize está configurado com `{ alter: true }`, atualizando automaticamente as tabelas ao iniciar o projeto.
+
+
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/4189c8d1-f0ce-45c9-89a1-651d1c5eb663" />
+<img width="1915" height="977" alt="image" src="https://github.com/user-attachments/assets/7400dbed-e8e4-4287-a123-f52d9089ce74" />
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/ead176cb-463b-4e37-bc71-1d6e4dd1e372" />
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/23b57f05-5aa0-446f-9f77-a0df09c9bdbe" />
+<img width="1919" height="576" alt="image" src="https://github.com/user-attachments/assets/3aa2a8ad-8f7f-41b0-b1e9-f238d5aa9993" />
+
+
+
+
